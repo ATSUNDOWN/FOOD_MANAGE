@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ysj.mapper.FoodMapper">
+    <select id="getAllFoodInfo" resultType="com.ysj.entity.Food">
+        select * from food
+    </select>
+    <select id="keyWordCheck" resultType="com.ysj.entity.Food">
+        select * from food where food_name like '%${foodName}%'
+    </select>
+    <select id="getFoodInfoById" resultType="com.ysj.entity.Food">
+        select * from food where id = #{id}
+    </select>
+<!--    List<Food> getFoodInfoByFid(@Param("fid") Integer fid);-->
+    <select id="getFoodInfoByFid" resultType="com.ysj.entity.Food">
+        select * from food where fid = #{fid}
+    </select>
+</mapper>
+

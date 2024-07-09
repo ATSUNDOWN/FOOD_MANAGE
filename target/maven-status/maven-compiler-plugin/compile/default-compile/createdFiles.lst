@@ -1,0 +1,16 @@
+com\ysj\common\CorsConfig.class
+com\ysj\common\MybatisPlusConfig.class
+com\ysj\mapper\CategoryMapper.class
+com\ysj\entity\Category.class
+com\ysj\service\impl\CategoryServiceImpl.class
+com\ysj\controller\FileController.class
+com\ysj\service\CategoryService.class
+com\ysj\entity\User.class
+com\ysj\common\Result.class
+com\ysj\FoodManageApplication.class
+com\ysj\controller\CategoryController.class
+com\ysj\mapper\UserMapper.class
+com\ysj\controller\FoodController.class
+com\ysj\entity\Food.class
+com\ysj\controller\UserController.class
+com\ysj\mapper\FoodMapper.class

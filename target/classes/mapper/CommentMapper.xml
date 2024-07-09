@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ysj.mapper.CommentMapper">
+<!--    void insertComment(@Param("commentContent") String commentContent,@Param("uid") String uid,@Param("nickName") String nickName);-->
+    <insert id="insertComment">
+        insert into comment(comment_content,uid,nick_name)
+        values(#{commentContent},#{uid},#{nickName})
+    </insert>
+<!--    List<Comment> selectAllComment();-->
+    <select id="selectAllComment" resultType="com.ysj.entity.Comment">
+        select * from comment;
+    </select>
+</mapper>
+

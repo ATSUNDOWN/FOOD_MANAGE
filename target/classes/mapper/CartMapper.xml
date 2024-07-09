@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ysj.mapper.CartMapper" >
+
+    <select id="selectCartInfo" resultType="com.ysj.entity.CartNum">
+        select food_pic,food_name,price,cart.fcount,food.fid
+        from food,cart where food.fid = cart.fid and
+				food.fid in
+            (select fid from cart where uid = #{uid})
+    </select>
+<!--    String insertFoodIntoCart(@Param("uid") String uid,@Param("fid") String fid);-->
+    <insert id="insertFoodIntoCart">
+        insert into cart(uid,fid)
+        values (#{uid},#{fid})
+    </insert>
+<!--    void updateFoodCount(@Param("id") Integer);-->
+    <update id="updateFoodCount">
+        update cart
+        <set>
+            fcount = #{fcount}
+        </set>
+        where fid = #{fid}
+    </update>
+<!--    void FinshShopping(@Param("id") Integer id,@Param("username") String username,@Param("address") String address);-->
+    <insert id="FinshShopping">
+        insert into ordering(oid,username,address)
+        values (#{oid},#{username},#{address})
+    </insert>
+<!--    void deleteByFid(@Param("fid")String fid);-->
+    <delete id="deleteByFid">
+        delete from cart
+        where fid = #{fid}
+    </delete>
+<!--    void deleteByFid(@Param("fid")String fid);-->
+    <delete id="deleteByUid">
+        delete from cart
+        where uid = #{uid}
+    </delete>
+<!--    //记录用户与食品对照-->
+<!--    void orderConnect(@Param("uid") String uid,@Param("fid") String fid);-->
+    <insert id="orderConnect">
+        insert into orderconnect(uid,fid)
+        values (#{uid},#{fid})
+    </insert>
+
+
+</mapper>
+

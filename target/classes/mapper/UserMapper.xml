@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ysj.mapper.UserMapper">
+    <!--    void recharge(@Param("username") String username);-->
+    <update id="recharge">
+        update user
+        <set>
+            balance = #{balance}
+        </set>
+        where username = #{username}
+    </update>
+    <!--    List<User> selectBalanceByUid(@Param("username") username);-->
+    <select id="selectBalanceByUid" resultType="com.ysj.entity.User">
+        select username,balance
+        from user
+        where username = #{username}
+    </select>
+</mapper>
+

@@ -1,0 +1,16 @@
+F:\food_manage\src\main\java\com\ysj\mapper\FoodMapper.java
+F:\food_manage\src\main\java\com\ysj\controller\FoodController.java
+F:\food_manage\src\main\java\com\ysj\mapper\UserMapper.java
+F:\food_manage\src\main\java\com\ysj\entity\Category.java
+F:\food_manage\src\main\java\com\ysj\common\Result.java
+F:\food_manage\src\main\java\com\ysj\common\CorsConfig.java
+F:\food_manage\src\main\java\com\ysj\controller\CategoryController.java
+F:\food_manage\src\main\java\com\ysj\service\impl\CategoryServiceImpl.java
+F:\food_manage\src\main\java\com\ysj\controller\UserController.java
+F:\food_manage\src\main\java\com\ysj\service\CategoryService.java
+F:\food_manage\src\main\java\com\ysj\mapper\CategoryMapper.java
+F:\food_manage\src\main\java\com\ysj\controller\FileController.java
+F:\food_manage\src\main\java\com\ysj\entity\Food.java
+F:\food_manage\src\main\java\com\ysj\entity\User.java
+F:\food_manage\src\main\java\com\ysj\FoodManageApplication.java
+F:\food_manage\src\main\java\com\ysj\common\MybatisPlusConfig.java

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34e722c9-0b33-4267-8f7f-2d2ecf853b92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="mybatis-config" />
+        <option value="mybatis-mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\javaee\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.8.4-bin/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.8.4-bin\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JcLp9WhgJcnLjTzT8oMKTUeZqr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ysj.controller" />
+      <recent name="com.ysj.mapper" />
+      <recent name="com.ysj.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\food_manage\src\main\resources" />
+      <recent name="F:\food_manage\src\main\java\com\ysj\common" />
+      <recent name="F:\food_manage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FoodManageApplication">
+    <configuration name="FoodManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="food_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ysj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ysj.FoodManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../food_manage_vue/foodManageFront/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.FoodManageApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FoodManageApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e722c9-0b33-4267-8f7f-2d2ecf853b92" name="Default Changelist" comment="" />
+      <created>1672372604089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672372604089</updated>
+      <workItem from="1672372608536" duration="2848000" />
+      <workItem from="1672406802998" duration="2271000" />
+      <workItem from="1672410479879" duration="621000" />
+      <workItem from="1673008918555" duration="11919000" />
+      <workItem from="1673061907966" duration="125000" />
+      <workItem from="1673062055280" duration="6413000" />
+      <workItem from="1673070375762" duration="141000" />
+      <workItem from="1673070826518" duration="131000" />
+      <workItem from="1673076285713" duration="9661000" />
+      <workItem from="1673088270048" duration="3905000" />
+      <workItem from="1673149911390" duration="825000" />
+      <workItem from="1673235046129" duration="15792000" />
+      <workItem from="1673316692152" duration="2586000" />
+      <workItem from="1673405098192" duration="1205000" />
+      <workItem from="1673408670963" duration="4160000" />
+      <workItem from="1673432468122" duration="3252000" />
+      <workItem from="1673436505008" duration="96000" />
+      <workItem from="1673436656719" duration="61000" />
+      <workItem from="1673436740287" duration="11195000" />
+      <workItem from="1673582203217" duration="6035000" />
+      <workItem from="1673602434467" duration="639000" />
+      <workItem from="1673668000272" duration="1791000" />
+      <workItem from="1673677945292" duration="9763000" />
+      <workItem from="1673946573315" duration="1825000" />
+      <workItem from="1673972762962" duration="8492000" />
+      <workItem from="1674014684536" duration="14782000" />
+      <workItem from="1674058379088" duration="5084000" />
+      <workItem from="1674091497443" duration="20535000" />
+      <workItem from="1674315303729" duration="2616000" />
+      <workItem from="1674356196648" duration="7084000" />
+      <workItem from="1674376558898" duration="14914000" />
+      <workItem from="1674533664597" duration="1561000" />
+      <workItem from="1674558531756" duration="102000" />
+      <workItem from="1674701443617" duration="1854000" />
+      <workItem from="1674714319989" duration="1264000" />
+      <workItem from="1674787899895" duration="6106000" />
+      <workItem from="1674842783617" duration="60000" />
+      <workItem from="1674878031255" duration="1240000" />
+      <workItem from="1674961491801" duration="5697000" />
+      <workItem from="1674987055074" duration="2399000" />
+      <workItem from="1675314820607" duration="1582000" />
+      <workItem from="1675646136853" duration="6984000" />
+      <workItem from="1677127599897" duration="22000" />
+      <workItem from="1678893004626" duration="228000" />
+      <workItem from="1683013597986" duration="184000" />
+      <workItem from="1683632746149" duration="240000" />
+      <workItem from="1684752425538" duration="514000" />
+      <workItem from="1685280010132" duration="667000" />
+      <workItem from="1685617583124" duration="3637000" />
+      <workItem from="1685627427954" duration="198000" />
+      <workItem from="1685682530569" duration="617000" />
+      <workItem from="1685845483166" duration="707000" />
+      <workItem from="1686019016129" duration="745000" />
+      <workItem from="1686497493246" duration="626000" />
+      <workItem from="1716205791859" duration="700000" />
+      <workItem from="1716209498468" duration="169000" />
+      <workItem from="1716297409409" duration="9000" />
+      <workItem from="1720522927346" duration="720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1716209420447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1716209420447" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1716205832931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1716205832931" />
+    <state x="334" y="180" key="new project wizard" timestamp="1716209660582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1716209660582" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/food_manage$FoodManageApplication.ic" NAME="FoodManageApplication Coverage Results" MODIFIED="1673259324606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ysj.*</FILTER>
+    </SUITE>
+  </component>
+</project>
